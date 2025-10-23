@@ -1,0 +1,26 @@
+# Bug Bounty Work
+
+This file contains information about bug bounty programs participated in and vulnerabilities discovered.
+
+## Format
+Each entry should include:
+- Program Name
+- Date
+- Vulnerability Type
+- Severity
+- Status (Triaged/Resolved/Duplicate)
+- Brief Description
+
+## Entries
+
+[Add your bug bounty findings here]
+
+---
+
+Example Entry:
+Program: Example Company
+Date: YYYY-MM-DD
+Vulnerability: Cross-Site Scripting (XSS)
+Severity: Medium
+Status: Resolved
+Description: Found a reflected XSS vulnerability in the search functionality that allowed arbitrary JavaScript execution.

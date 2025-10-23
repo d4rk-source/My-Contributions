@@ -1,0 +1,36 @@
+# Open-Source Contributions
+
+This file contains information about contributions to open-source projects.
+
+## Format
+Each entry should include:
+- Project Name
+- Repository URL
+- Date
+- Contribution Type (Bug Fix, Feature, Documentation, etc.)
+- PR/Issue Number
+- Description
+
+## Entries
+
+[Add your open-source contributions here]
+
+---
+
+Example Entry:
+Project: Example Project
+Repository: https://github.com/example/project
+Date: YYYY-MM-DD
+Type: Bug Fix
+PR: #123
+Description: Fixed a memory leak in the data processing module that occurred when handling large files.
+
+---
+
+Example Entry:
+Project: Another Project
+Repository: https://github.com/example/another-project
+Date: YYYY-MM-DD
+Type: Feature
+PR: #456
+Description: Added support for JSON export functionality with customizable formatting options.
