@@ -24,3 +24,8 @@ It’s designed to simulate the **entire audit cycle**:
 It includes **multiple types of vulnerabilities**, encouraging iterative testing and continuous improvement — just like a real audit.
 
 ---
+
+### 🔗 Access the CTF
+
+You can find the full open-source project here:
+https://github.com/d4rk-source/Never-Poor-Again
