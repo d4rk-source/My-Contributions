@@ -1,0 +1,30 @@
+# Capture The Flag (CTF) Competitions
+
+This file contains information about CTF competitions participated in and challenges solved.
+
+## Format
+Each entry should include:
+- CTF Name
+- Date
+- Platform/Organizer
+- Team Name (if applicable)
+- Rank/Position
+- Categories Solved (Web, Crypto, Pwn, Forensics, etc.)
+- Notable Challenges
+
+## Entries
+
+[Add your CTF participation details here]
+
+---
+
+Example Entry:
+CTF: Example CTF 2024
+Date: YYYY-MM-DD
+Platform: CTFtime
+Team: Solo / Team Name
+Rank: #XX
+Categories: Web (3), Crypto (2), Forensics (1)
+Notable Challenges:
+  - Challenge Name 1: Brief description of the challenge and solution approach
+  - Challenge Name 2: Brief description of the challenge and solution approach
